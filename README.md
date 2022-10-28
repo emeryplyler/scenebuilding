@@ -19,3 +19,5 @@ The objects in my scene include:
 10. Terrain      (Created)
 
 These together reach the maximum of 26 points.
+
+October 27th Note: I had mistakenly pushed a commit from the part 2 to this repository. This is why the most recent commit says "revert."
